@@ -47,5 +47,5 @@ Udemy-Clone/
 ```
 
 ## Acknowledgment
-This projects was created as a part of my learning journey in FullStack Development. Feedback and suggestions are always welcome!
+This project is part of my learning journey in Full-Stack Development. I appreciate any feedback and suggestions to help me improve!
 
